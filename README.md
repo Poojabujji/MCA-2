@@ -27,12 +27,12 @@ Education
 
 **skills**
 ----------------------------------------
--c
--c++
--java
--Python
--Wed Technology
--Git and github
+- c
+- c++
+- java
+- Python
+- Wed Technology
+- Git and github
 
 **Certifications**
 ----------------------------------------
